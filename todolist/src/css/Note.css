@@ -1,0 +1,14 @@
+.note {
+    width: 100%;
+    height: auto;
+    text-align: left;
+    display: flex !important;
+  }
+  
+  .last {
+    padding-bottom: 80px;
+  }
+  .other {
+    padding: 0px;
+  }
+  

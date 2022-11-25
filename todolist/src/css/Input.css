@@ -1,0 +1,23 @@
+#note {
+    width: 99%;
+    height: 30px;
+    text-shadow: 2px;
+    border: none;
+    text-align: center;
+    font-size: 15px;
+  }
+  #submit {
+    background-color: #add8e6;
+    width: 35%;
+    height: 50px;
+    border-radius: 7px;
+    border: none;
+  }
+  
+  .input {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+  }
+  

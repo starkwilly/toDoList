@@ -1,0 +1,16 @@
+.app {
+    background-color: white;
+    width: 500px;
+    position: relative;
+    margin-top: 50px;
+    height: auto;
+    border-radius: 7px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 500px;
+  }
+  h1 {
+    padding-top: 30px;
+  }
+  
